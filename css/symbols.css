@@ -1,0 +1,25 @@
+body{
+ background-color: lightgreen;
+}
+p{
+font-size: 24px;
+}
+.p1{
+    color: blueviolet;
+    background-color: darkblue;
+}
+.p2{
+    font-family: "Georgia", serif;
+}
+.p3{
+  font-family: "Verdana", "Helvetica", "Arial", sans-serif;
+}
+.p4{
+    font-family: cursive;
+}
+.p5{
+    font-family: monospace;
+}
+.p6{
+  font-family: "Playwrite AR Guides", cursive;
+}
